@@ -1,0 +1,99 @@
+
+@media (max-width: 768px) {
+    #aboutpage {
+      padding-top: 10px;
+      height: 50vh;
+      width: 100%;
+    }
+}
+@media (min-width: 768px) {
+    #aboutpage {
+      padding-top: 50px;
+      height: 100%;
+      width: 60%;
+    }
+}
+
+#aboutpage {
+  font-size: 13px;
+  font-family: "Della Respira";
+  font-style: normal;
+  font-weight: 400;
+  position: absolute;
+  left: 0;
+  overflow-y: scroll;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#aboutpage div {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 15px;
+  width: 60%;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#aboutpage h1 {
+  font-family: "Della Respira";
+  font-size: 34px;
+  line-height: 42px;
+  margin: 0px 0px 10px 0px;
+}
+#aboutpage p {
+  font-size: 15px;
+  line-height: 21px;
+  font-family: "Roboto";
+  font-weight: 100;
+  font-style: normal;
+  margin: 0px 0px 5px 0px;
+  text-indent: 0px;
+}
+#aboutpage p.heading {
+  letter-spacing: 2px;
+  font-size: 13px;
+  border-width: 0px 0px 1px 0px;
+  border-style: dotted;
+  color: #000000;
+  font-family: "Open Sans Condensed";
+  font-weight: 300;
+  font-style: italic;
+  margin: 0px 0px 15px 0px;
+}
+#aboutpage h6 {
+  margin: 20px 0px 5px 0px;
+  border-width: 0px 0px 1px 0px;
+  border-style: dotted;
+  font-family: "Della Respira";
+  font-weight: 400;
+  font-style: normal;
+}
+#aboutpage h5 {
+  font-family: "Della Respira";
+  font-weight: 400;
+  font-style: normal;
+}
+#aboutpage a {
+  color: #23818c;
+}
+#aboutpage p.page {
+  text-indent: 20px;
+  margin: 0px 0px 10px 0px;
+  text-align: left;
+}
+#aboutpage ul {
+  margin: 0px 20px 10px 20px;
+  padding: 0px 20px 10px 20px;
+}
+#aboutpage li {
+  line-height: 23.89px;
+  text-indent: 0px;
+  font-family: "Roboto";
+  font-weight: 100;
+}
+#aboutpage ol {
+  text-indent: 7px;
+  margin: 10px 20px;
+}

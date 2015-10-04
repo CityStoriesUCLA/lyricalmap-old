@@ -1,0 +1,97 @@
+{ "map"         : { "config"        : "config/map.json",
+                    "hoverPopup"    : false             },
+  "pages"       : { "pathBase"  : "../../pages/",
+                    "home"      : "map-title",
+                    "routes" : {
+                        ""              : "page",
+                        "article/:id"   : "article",
+                        "page/:page"    : "page"
+                    },
+                    "router" : { "history" : true       },
+                    "pages"     : {
+                        "map-title" : [
+                              { "view"    : "views/map"   }
+                            , { "view"    : "views/issue" }
+                            , { "partial" : { "el"   : "#article"
+                                            , "page" : "title.html" } }
+                            , { "view"    : "views/menu"  }
+                            ],
+                       
+                        "about"      : [
+                              { "view"    : "views/issue" }
+                            , { "view"    : "views/page" }
+                            , { "view"    : "views/menu"  }
+                            , { "partial" : { "el"   : "#article"
+                                            , "page" : "title.html" } }
+                            , { "partial" : { "el"   : "#page"
+                                            , "page" : "about.html" } }
+                        ],
+                        "contrib"  : [
+                              { "view"    : "views/issue" }
+                            , { "view"    : "views/page" }
+                            , { "view"    : "views/menu"  }
+                            , { "partial" : { "el"   : "#article"
+                                            , "page" : "title.html" } }
+                            , { "partial" : { "el"   : "#page"
+                                            , "page" : "contributors.html" } }
+                        ],
+                        "404"      : [
+                              { "page" : { "el"   : "body"
+                                         , "page" : "404.html" } }
+                        ]
+                    }}
+  , "menu" : [
+    {  "type"    : "page",
+       "label"   : "Home",
+       "href"    : "",
+       "partial" : "partials/menu/page.html"     },
+
+    {  "type"       : "menu",
+       "label"      : "Articles",
+       "collection" : "collections/articles",
+       "partial"    : "partials/menu/submenu.html",
+       "item": {
+            "href"  : "article/:i"              }},
+
+    {  "type"    : "sep",
+       "partial"  : "partials/menu/sep.html"     },
+
+    {  "type"    : "page",
+       "label"    : "About",
+       "href"    : "page/about",
+       "partial" : "partials/menu/page.html"     },
+
+    {  "type"    : "page",
+       "label"    : "Contributors",
+       "href"    : "page/contrib",
+       "partial" : "partials/menu/page.html"     }
+
+  ]
+  , "articles" : {
+    "pathBase"  : "articles/",
+    "files"     : [
+        "lyricalmap.xml",
+        "hugoballin.xml"
+      ]
+   }
+  , "markers" : {
+        "icons" : [
+            { "dir"   : "app/icons/",
+              "files" : [
+                "noun_33862_cc_aqua.svg"   ,
+                "noun_33862_cc_black.svg"  ,
+                "noun_33862_cc_blue.svg"   ,
+                "noun_33862_cc_green.svg"  ,
+                "noun_33862_cc_orange.svg" ,
+                "noun_33862_cc_pink.svg"   ,
+                "noun_33862_cc_plum.svg"   ,
+                "noun_33862_cc_purple.svg" ,
+                "noun_33862_cc_red.svg"    ,
+                "noun_33862_cc_rose.svg"   ,
+                "noun_33862_cc_teal.svg"
+            ]}]
+   }
+  , "book" : {
+      "file" : "config/book.json"
+  }
+}
