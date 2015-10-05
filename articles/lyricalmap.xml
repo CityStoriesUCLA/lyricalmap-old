@@ -61,6 +61,12 @@
                     <note type="attribution">Image courtesy of ...</note>
                     <figDesc>Conceptual drawing of female figure with a poem enclosed in the figure.</figDesc>
                 </figure>
+                <figure xml:id="fig1">
+                    <graphic url="../images/lyrical3.jpg"/>
+                    <head>Father Boyle</head>
+                    <note type="attribution">Image courtesy of ...</note>
+                    <figDesc>Drawing of Father Boyle with youth, reads: "Nothing stops a bullet like a job," Father Greg Boyle, Homeboy Industries.</figDesc>
+                </figure>
             </div>
         </back>
     </text>
