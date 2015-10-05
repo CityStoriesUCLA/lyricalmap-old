@@ -60,7 +60,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="https://drive.google.com/file/d/0B4UG5eRaehFgT0l5UmZERXNYYkU/"/>
+               <graphic url=".../images/nameofimage.jpg"/>
                <head></head>
                <note type="attribution">Image courtesy of ...</note>
                <figDesc></figDesc>
