@@ -71,7 +71,8 @@
     "pathBase"  : "articles/",
     "files"     : [
         "lyricalmap.xml",
-        "hugoballin.xml"
+        "hugoballin.xml",
+        "academyawards.xml"
       ]
    }
   , "markers" : {
