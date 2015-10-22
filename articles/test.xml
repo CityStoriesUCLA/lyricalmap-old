@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
+            <title>My Awesome Article</title>
+            <author>Dawn Childress</author>
             <author>Author 2</author>
             <author>Author 3</author>
          </titleStmt>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>The Awesome Papers of Dawn Childress, 1999-2008</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
+            <placeName type="history">Article title, Placename</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Brief description, quote, or summary here.</p>
          </note>
