@@ -72,7 +72,8 @@
     "files"     : [
         "lyricalmap.xml",
         "hugoballin.xml",
-        "academyawards.xml"
+        "academyawards.xml",
+        "test.xml"
       ]
    }
   , "markers" : {
