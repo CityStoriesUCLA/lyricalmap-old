@@ -17,14 +17,14 @@
                             , { "view"    : "views/menu"  }
                             ],
                        
-                        "about"      : [
+                        "intro"      : [
                               { "view"    : "views/issue" }
                             , { "view"    : "views/page" }
                             , { "view"    : "views/menu"  }
                             , { "partial" : { "el"   : "#article"
                                             , "page" : "title.html" } }
                             , { "partial" : { "el"   : "#page"
-                                            , "page" : "about.html" } }
+                                            , "page" : "introduction.html" } }
                         ],
                         "contrib"  : [
                               { "view"    : "views/issue" }
@@ -57,8 +57,8 @@
        "partial"  : "partials/menu/sep.html"     },
 
     {  "type"    : "page",
-       "label"    : "About",
-       "href"    : "page/about",
+       "label"    : "Introduction",
+       "href"    : "page/intro",
        "partial" : "partials/menu/page.html"     },
 
     {  "type"    : "page",
