@@ -10,7 +10,7 @@
 #title-footer p {
     margin-left: auto;
     margin-right: auto;
-    font-size: 11px;
+    font-size: 14px;
 }
 #titlepage p.course {
     margin-bottom: 30px !important;
@@ -21,10 +21,10 @@
   height: 100vh;
   width: 100%;
   padding: 0 !important;
-  font-size: 13px;
-  font-family: "Della Respira";
+  font-size: 15px;
+  font-family: "Open Sans";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   white-space: normal;
 }
 
@@ -57,25 +57,25 @@
   width: 100%;
 }
 #titlepage h1 {
-  font-size: 34px;
+  font-family: "Voltaire";
+  font-size: 35px;
   line-height: 42px;
   margin: 0px 0px 10px 0px;
   text-align: center;
   letter-spacing: 1px;
 }
 #titlepage p.byline {
-  font-family: "Open Sans Condensed";
+  font-family: "Open Sans";
   font-weight: 300;
   font-style: italic;
   font-size: 16px;
-  line-height: 16px;
+  line-height: 20px;
   text-align: center !important;
   letter-spacing: 0px;
 }
 #titlepage p {
-  font-size: 15px;
   line-height: 21px;
-  font-family: "Roboto";
+  font-family: "Open Sans";
   font-weight: 300;
   font-style: normal;
   padding-right: 1em;
