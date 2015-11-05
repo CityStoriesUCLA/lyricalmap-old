@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Article title</title>
+            <author>Author 1</author>
+            <author>Author 2</author>
+            <author>Author 3</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Colleen Jaurretche</publisher>
+            <date when="2015">Fall 2015</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+                  <title>Name of the archival collection, Institution</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Article text goes here...</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="arts">Article title, Placename</placeName>
+            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Brief description, quote, or summary here.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Citation 1...</bibl>
+               <bibl>Citation 2...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="../images/nameofimage.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
