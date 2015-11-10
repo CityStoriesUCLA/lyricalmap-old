@@ -46,7 +46,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">La Brea Tar Pits, Los Angeles</placeName>
+            <placeName type="history">La Brea Tar Pits, Los Angeles</placeName>
             <geo>-118.355463 34.063821</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The La Brea Tar Pits have become a big attraction of the Los Angeles area, but during the early nineteenth century, the tar, or brea, was mined commercially and used as a resource throughout the state of California. The few bones discovered were tossed aside and not given much thought; however, the importance of the fossils were recognized in 1875 when Henry Hancock presented a tooth of a saber-toothed cat.</p>
          </note>
