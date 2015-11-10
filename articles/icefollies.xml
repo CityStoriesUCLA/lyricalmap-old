@@ -6,20 +6,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Ice Follies: The Evolution of Traveling Ice Shows</title>
+            <author>Ashley Z.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
-            <date when="2015">Fall 2015</date>
+            <date when="2014">Winter 2014</date>
          </publicationStmt>
          <notesStmt>
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Willian Bellin Papers, 1930-1996, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -40,9 +38,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="arts and culture">Ice Follies / Disney on Ice</placeName>
+            <geo>-118.32518900000002 34.156207</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Ice Follies became Holiday on Ice, then eventually Disney on Ice, which it still is today.</p>
          </note>
          
          <div type="bibliography">
@@ -54,10 +52,10 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
-               <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
+               <graphic url="../images/icefollies.jpg"/>
+               <head>Ice Follies Dress Rehearsal</head>
+               <note type="attribution">1946. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Black and white photograph of an ice skater jumping over two 50's style rockets.</figDesc>
             </figure>
             
          </div>
