@@ -42,7 +42,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">19th Annual Academy Awards, Shrine Auditorium</placeName>
+            <placeName type="arts and entertainment">19th Annual Academy Awards, Shrine Auditorium</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Brief description, quote, or summary here.</p>
          </note>
