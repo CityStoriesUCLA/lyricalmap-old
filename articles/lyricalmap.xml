@@ -7,14 +7,14 @@
                 <author>Libros Schmibros</author>
             </titleStmt>
             <publicationStmt>
-                <publisher>UCLA Libraries</publisher>
-                <date when="2014">Fall 2015</date>
+                <publisher>Colleen Jaurretche</publisher>
+                <date when="2015">Fall 2015</date>
             </publicationStmt>
             <notesStmt>
                 <relatedItem>
                     <bibl>
                         <author></author>
-                        <title>Lyrical Map of Los Angeles, UCLA Digital Library Collections</title>
+                        <title>UCLA Digital Library Collections</title>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -36,9 +36,9 @@
         <back>
 
             <note type="mapmarker">
-                <placeName type="arts">Los Angeles</placeName>
-                <geo>-118.442289 34.071572</geo>
-                <p>The Lyrical Map of the Concept of Los Angeles is held at UCLA's Powell Library.</p>
+                <placeName type="arts">Libros Schmibros</placeName>
+                <geo>-118.2194174 34.0476014</geo>
+                <p>Created at the Hammer Museum as part of Libros Schmibros' residency, the Lyrical Map of the Concept of Los Angeles is held at UCLA's Powell Library.</p>
             </note>
 
             <div type="bibliography">
@@ -52,19 +52,19 @@
                 <figure xml:id="fig1">
                     <graphic url="../images/lyrical1.jpg"/>
                     <head>Lyrical Map title</head>
-                    <note type="attribution">Image courtesy of ...</note>
+                    <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Image of the hand-drawn title of the work. Reads: Lyrical map of the concept of Los Angeles. J. Michael Walker, 2011. Designer &amp; Cartographer.</figDesc>
                 </figure>
                 <figure xml:id="fig2">
                     <graphic url="../images/lyrical2.jpg"/>
                     <head>Close up of Lyrical Map poem</head>
-                    <note type="attribution">Image courtesy of ...</note>
+                    <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Conceptual drawing of female figure with a poem enclosed in the figure.</figDesc>
                 </figure>
                 <figure xml:id="fig1">
                     <graphic url="../images/lyrical3.jpg"/>
                     <head>Father Boyle</head>
-                    <note type="attribution">Image courtesy of ...</note>
+                    <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Drawing of Father Boyle with youth, reads: "Nothing stops a bullet like a job," Father Greg Boyle, Homeboy Industries.</figDesc>
                 </figure>
             </div>
