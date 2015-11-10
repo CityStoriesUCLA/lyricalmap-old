@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Hugo Ballin</title>
-            <author>Deisy Ramos</author>
-            <author>Cynthia Castro</author>
-            <author>Estefani Rodriguez</author>
+            <author>Deisy R.</author>
+            <author>Cynthia C.</author>
+            <author>Estefani R.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>UCLA Libraries</publisher>
@@ -61,9 +61,9 @@
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/ballin.jpg"/>
-               <head></head>
-               <note type="attribution">Image courtesy of ...</note>
-               <figDesc></figDesc>
+               <head>Ballin's Lunette</head>
+               <note type="attribution">Hugo Ballin, 1930. Image courtesy of UCLA Library Special Collections</note>
+               <figDesc>Mural depicting the arrival of the Spanish to the coming of white settlers in covered wagons</figDesc>
             </figure>
             
          </div>
