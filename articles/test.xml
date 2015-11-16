@@ -40,9 +40,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="environment and science">Article title, Santa Monica Freeway</placeName>
+            <geo>-118.336782 34.034812</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The 1994 Northridge Earthquake was one of the most damaging disasters in US history, costing over twenty-five billion dollars. Killing 72 people the earthquake struck at 4:31 a.m. on January 17, 1994. The magnitude of 6.7 was felt as far as Las Vegas hospitalizing over 11,846 people (Oliver-Smith 73). The built environment and population of Northridge were completely exposed. Highly populated areas are extremely vulnerable to the natural happenings of the earth (Oliver-Smith 96). Because Northridge is very urbanized and extremely populated, many people’s lives were turned upside down after the earthquake. This earthquake damaged four major Los Angeles freeways, which in itself caused major chaos (Alcántara-Ayala 14). Commonly after one’s routine of their everyday life is altered there tends to be discomfort. The Northridge earthquake exposed extreme vulnerability of the people.</p>
          </note>
          
          <div type="bibliography">
