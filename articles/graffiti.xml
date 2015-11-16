@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Los Angeles Graffiti</title>
+            <author>Jadyn D.</author>
+            <author>Natalie E.</author>
+            <author>Yuri S.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Graffiti L.A., UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
