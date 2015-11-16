@@ -54,10 +54,17 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
-               <head></head>
+               <graphic url="../images/teenangels1.jpg"/>
+               <head>The Title of the Image</head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
+               <figDesc>Black and white photo of a park bench.</figDesc>
+            </figure>
+            
+            <figure xml:id="fig2">
+               <graphic url="../images/teenangels2.jpg"/>
+               <head>The Title of the Image</head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc>Black and white photo of a park bench.</figDesc>
             </figure>
             
          </div>
