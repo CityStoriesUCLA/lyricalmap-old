@@ -6,10 +6,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Black and Blue : WAVAW Against the Rolling Stones</title>
+            <author>Jahanvi S.</author>
+            <author>Hari S.</author>
+            <author>Giselle M.</author>
+            <author>Egle U.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +20,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>WAVAW Collection Campaigns, Collection 1850, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
