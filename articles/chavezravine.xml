@@ -34,7 +34,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>  Sixty-three year old woman Abrana Arechiga and her family were among the last of residents to resist land acquistion at Chavez Ravine. The Arechiga family refused to leave from the remains of their demolished home until the city forcefully evicted them.</p>
+            <p></p>
          </div>
       </body>
       
@@ -43,7 +43,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="history">Chavez Ravine</placeName>
             <geo>-118.239518 34.067789</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <p>Sixty-three year old woman Abrana Arechiga and her family were among the last of residents to resist land acquistion at Chavez Ravine. The Arechiga family refused to leave from the remains of their demolished home until the city forcefully evicted them.</p>
          </note>
          
          <div type="bibliography">
