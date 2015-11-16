@@ -6,10 +6,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>1994 Northridge Earthquake</title>
+            <author>Danae Blodgett</author>
+            <author>Ashlie Blake</author>
+            <author>Pashmeen Kaur</author>
+            <author>Jagjot Dosanjh</author>
+            <author>Albert Yu</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
