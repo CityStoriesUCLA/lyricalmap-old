@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <Arts and Culture>Teen Angels, Rialto</placeName>
+            	<placename>Teen Angels, Rialto</placename>
             <geo>-117.37032349999998 34.1064001</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Brief description, quote, or summary here.</p>
          </note>
