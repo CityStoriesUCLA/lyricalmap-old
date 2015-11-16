@@ -32,7 +32,7 @@
    <text>
       
       <body>
-         <div type="Pacific Electric Motor Coach"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+         <div type="title"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Article text goes here...</p>
          </div>
       </body>
