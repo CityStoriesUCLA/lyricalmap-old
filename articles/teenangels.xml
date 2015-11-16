@@ -6,10 +6,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Teen Angels</title>
+            <author>Cambria Clark</author>
+            <author>Faye Tesoro</author>
+            <author>Kelly Dekitani</author>
+            <author>Raunak Kukreja</author>
+            <author>Lauren Hekman</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +21,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
