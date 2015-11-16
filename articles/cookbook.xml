@@ -7,10 +7,10 @@
       <fileDesc>
          <titleStmt>
             <title>Recuerdo de los Rancheros</title>
-            <author>Nicholas Y.</author>
-            <author>Gwen T.</author>
-            <author>Simone F.</author>
-            <author>Diana M. G.</author>
+            <author>Nicholas Y</author>
+            <author>Gwen T</author>
+            <author>Simone F</author>
+            <author>Diana M G</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -54,6 +54,30 @@
          </div>
          
          <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="../images/nameofimage.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig1">
+               <graphic url="../images/nameofimage.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig1">
+               <graphic url="../images/nameofimage.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig1">
+               <graphic url="../images/nameofimage.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
             <figure xml:id="fig1">
                <graphic url="../images/nameofimage.jpg"/>
                <head></head>
