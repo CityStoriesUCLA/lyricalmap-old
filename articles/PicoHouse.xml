@@ -6,10 +6,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Pico House</title>
+            <author>Noemi C</author>
+            <author>Guadelupe F</author>
+            <author>Lucy J</author>
+            <author>Sydney B</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +20,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Ana Bégué de Packman Papers, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
