@@ -54,10 +54,10 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
-               <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
+               <graphic url="bus1/images/nameofimage.jpg"/>
+               <head>Interior of a Pacific Electric Motor Coach</head>
+               <note type="attribution">Creator, 1940s-1950s. Image courtesy of UCLA Library Special Collections</note>
+               <figDesc>will think about it</figDesc>
             </figure>
             
          </div>
