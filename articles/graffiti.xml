@@ -42,7 +42,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts and culture">Los Angeles Graffiti, Melrose Avenue</placeName>
             <geo>-118.336614 34.083462</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Melrose Avenue was unique for its skate scene and became the birth place of many new artistic techniques and themes in L.A. graffiti. Young people used alleyways to tag murals and the avenue walls were soon filled with art.</p>
+            <p>Melrose Avenue was unique for its skate scene and became the birth place of many new artistic techniques and themes in L.A. graffiti. Young people would use alleyways to tag murals and the avenue walls were soon filled with art.</p>
          </note>
          
          <div type="bibliography">
