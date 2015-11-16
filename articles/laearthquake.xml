@@ -55,13 +55,28 @@
          </div>
          
          <div type="images">
-            <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
-               <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
+            <figure xml:id="fig1"></figure>
+               <graphic url="../images/freeway1.jpg"/>
+               <head>Santa Monica Freeway</head>
+               <note type="attribution">Creator, date. Image courtesy of UCLA Library Special Collections</note>
+               <figDesc>Broken down portion of the Santa Monica Freeway</figDesc>
             </figure>
             
+            <figure xml:id="fig2"></figure>
+               <graphic url="../images/freeway2.jpg"/>
+               <head>Santa Monica Freeway</head>
+               <note type="attribution">Creator, date. Image courtesy of UCLA Library Special Collections</note>
+               <figDesc>Beneath the broken down freeway</figDesc>
+            </figure>
+            
+            <figure xml:id="fig3"></figure>
+               <graphic url="../images/freeway3.jpg"/>
+               <head>Santa Monica Freeway</head>
+               <note type="attribution">Creator, date. Image courtesy of UCLA Library Special Collections</note>
+               <figDesc>Cars stuck in the ruins</figDesc>
+            </figure>
+            
+            </figure>
          </div>
       </back>
    </text>
