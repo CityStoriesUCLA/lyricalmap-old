@@ -6,10 +6,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Sit-Down Strike in Ruins Begin</title>
+            <author>Jocelyn C</author>
+            <author>Gladys G</author>
+            <author>Brianna W</author>
+            <author><Isaac K</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +20,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Ed Ross Roybal Papers, UCLA Library Special Collections</title>
+                  <title>Name of the archival collection, Institution</title>
                </bibl>
             </relatedItem>
          </notesStmt>
