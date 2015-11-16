@@ -42,7 +42,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <Arts and Culture>Article title, Placename</placeName>
             <geo>-117.37032349999998 34.1064001</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <Rialto is a city in San Bernardino County, California, United States. Over half the population is hispanic or latino in race. The Teen Angels Magazine is a business in rialto where the youth get to speak their mind. publishes gang graffiti, artwork, poetry and even obituaries. It is geared towards minorities and youths, which are prevalent populations in rialto>Brief description, quote, or summary here.</p>
+            <Over half the population of Rialto is of Hispanic or Latino descent. The Teen Angels Magazine is a business in Rialto where the youth get to speak their mind. They publish gang graffiti, artwork, poetry and even obituaries. It is geared towards minorities and youths, which are prevalent populations in Rialto.>Brief description, quote, or summary here.</p>
          </note>
          
          <div type="bibliography">
