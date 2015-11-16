@@ -41,9 +41,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="Politics and Society">Warner Bros. Records</placeName>
+            <geo>-118.335173 34.151322</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Atlantic Records, a division of Warner Bros. Communications put up an advertisement supporting the Rolling Stones new album Black and Blue. The ad featured a women tied up, legs spread open, bruised and sitting above Mike Jagger’s head. In response to the ad, a women’s rights group Women Against Violence Against Women gathered signatures for a petition and launched a campaign to have the ad removed. Their protest opened up conversation about the portrayal of women in media as more than objects of sexual nature in the nation.</p>
          </note>
          
          <div type="bibliography">
