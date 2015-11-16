@@ -6,10 +6,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Dalton Trumbo Papers</title>
+            <author>Nephele Agrafiotis</author>
+            <author>Natalie Dybeck</author>
+            <author>Erika Salazar</author>
+            <author>Derik Li</author>
+            <author>Arnav Kapur</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +21,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Collection 1554 Box 236, UCLA Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
