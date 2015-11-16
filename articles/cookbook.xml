@@ -41,7 +41,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Recuerdos de Los Rancheros</placeName>
+            <placeName type="Arts and Culture">Recuerdos de Los Rancheros</placeName>
             <geo>-118.166599 34.123646</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>An original cookbook containing authentic hispanic recipes.  Thought to be one of the first cookbooks, it includes watercolor depictions of various Latin American foods.</p>
          </note>
