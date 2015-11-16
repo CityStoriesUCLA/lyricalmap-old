@@ -6,10 +6,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Recuerdo de los Rancheros</title>
+            <author>Nicholas Y.</author>
+            <author>Gwen T.</author>
+            <author>Simone F.</author>
+            <author>Diana M. G.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +20,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Rare Southern California Manuscript Cookbook, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -40,9 +41,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="arts">Recuerdos de Los Rancheros</placeName>
+            <geo>-118.166599 34.123646</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>An original cookbook containing authentic hispanic recipes.  Thought to be one of the first cookbooks, it includes watercolor depictions of various Latin American foods.</p>
          </note>
          
          <div type="bibliography">
