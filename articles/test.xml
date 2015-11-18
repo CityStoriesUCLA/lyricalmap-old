@@ -21,7 +21,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Teen Angels, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -34,7 +34,7 @@
    <text>
       
       <body>
-         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+         <div type="Children and Gangs"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Article text goes here...</p>
          </div>
       </body>
@@ -56,11 +56,18 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
+               <graphic url="https://lh5.googleusercontent.com/75BiqW03QvqXwTMXJmuC5p5qThBWfs8dXO8aDWAqXzATn9sExK2bYpQhyrlcyeF1VJ0qNA=w2124-h1108"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
             </figure>
+            <figure xml:id="fig1">
+               <graphic url="https://lh4.googleusercontent.com/HUJdOESXTp4aJpup-aZwKYZt-burgY-N1QGudNpPhnTpybYP13QbOZVq1o87HK9JPU8faA=w2124-h1108"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            
             
          </div>
       </back>
