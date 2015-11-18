@@ -67,7 +67,17 @@
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
             </figure>
-            
+             <figure xml:id="fig1">
+               <graphic url= <figure xml:id="fig1">
+               <graphic url="https://lh5.googleusercontent.com/75BiqW03QvqXwTMXJmuC5p5qThBWfs8dXO8aDWAqXzATn9sExK2bYpQhyrlcyeF1VJ0qNA=w2124-h1108"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
             
          </div>
       </back>
