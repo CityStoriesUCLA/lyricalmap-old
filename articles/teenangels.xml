@@ -41,7 +41,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts">Teen Angels Magazine- Rialto</placeName>
-            <geo>--117.37032349999998 34.1064001</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-117.37032349999998 34.1064001</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Over half the population of Rialto is of Hispanic or Latino descent. The Teen Angels Magazine is a business in Rialto where the youth get to speak their mind. This magazine publishes gang graffiti, artwork, poetry and even obituaries. It is geared toward minorities and youth, which are prevalent populations in Rialto.</p>
          </note>
          
