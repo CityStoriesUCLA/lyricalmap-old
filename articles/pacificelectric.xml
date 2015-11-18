@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>UCLA Digital Library Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -32,7 +32,7 @@
    <text>
       
       <body>
-         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+         <div type="Pacific Electric Motor Coach"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Article text goes here...</p>
          </div>
       </body>
