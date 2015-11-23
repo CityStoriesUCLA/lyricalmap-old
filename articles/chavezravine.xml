@@ -61,13 +61,13 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="https://raw.githubusercontent.com/ggglad/lyricalmap/gh-pages/images/chavezravine1.JPG"/>
+               <graphic url="../images/chavezravine1.jpg"/>
                <head></head>
                <note type="attribution">Creator, 10 May 1959. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="../images/chavezravine2jpg"/>
+               <graphic url="../images/chavezravine2.jpg"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
