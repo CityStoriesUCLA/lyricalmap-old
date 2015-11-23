@@ -54,7 +54,13 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
+               <graphic url="../images/olympic1.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+               
+               <figure xml:id="fig2">
+               <graphic url="../images/olympic2.jpg"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
