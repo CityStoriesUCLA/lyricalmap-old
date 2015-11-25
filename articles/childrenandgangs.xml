@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -34,7 +33,7 @@
    <text>
       
       <body>
-         <div type="Children and Gangs"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Article text goes here...</p>
          </div>
       </body>
@@ -56,12 +55,14 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="https://lh5.googleusercontent.com/75BiqW03QvqXwTMXJmuC5p5qThBWfs8dXO8aDWAqXzATn9sExK2bYpQhyrlcyeF1VJ0qNA=w2124-h1108"/>
+               <graphic url="../images/gangs1.jpg"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
             </figure>
-           
+            
+            <figure xml:id="fig2">
+               <graphic url="../images/gangs2.jpg"/>
                <head></head>
                <note type="attribution">Creator, date. Image courtesy of ...</note>
                <figDesc></figDesc>
