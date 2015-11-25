@@ -41,7 +41,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Politics and Society">Warner Bros. Records</placeName>
+            <placeName type="politics and society">Warner Bros. Records</placeName>
             <geo>-118.335173 34.151322</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Atlantis Records, a division of Warner Bros. Communications, put an advertisement supporting the Rolling Stones new album, Black and Blue. The ad featured a woman tied up, legs spread open, bruised, and sitting above Mick Jagger’s head. In response to the ad, a women’s rights group, Women Against Violence Against Women, gathered signatures for a petition and launched a campaign to have the ad removed. Their protest opened up conversation about the portrayal of women in media as more than objects of sexual nature in the nation.</p>
          </note>
@@ -66,16 +66,19 @@
                <head></head>
                <note type="attribution">Women Against Violence Against Women, 1964-1994. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
+            </figure>
             <figure xml:id="fig2">
                <graphic url="../images/petition2.jpg"/>
                <head></head>
                <note type="attribution">Women Against Violence Against Women, 1964-1994. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
+            </figure>
             <figure xml:id="fig3">
                <graphic url="../images/petition3.jpg"/>
                <head></head>
                <note type="attribution">Women Against Violence Against Women, 1964-1994. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
+            </figure>
             <figure xml:id="fig4">
                <graphic url="../images/petition4.jpg"/>
                <head></head>
