@@ -6,12 +6,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1994 Northridge Earthquake</title>
-            <author>Albert Y.</author>
+            <title>Impacts of the 1994 Northridge Earthquake</title>
+            <author>Ashlie B.</author>
             <author>Danae B.</author>
             <author>Jagjot D.</author>
-            <author>Ashlie B.</author>
             <author>Pashmeen K.</author>
+            <author>Albert Y.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -58,21 +58,14 @@
             <figure xml:id="fig1">
                <graphic url="http://www.trbimg.com/img-52d5b295/turbine/la-me-remembering-the-northridge-earthquake-of-015/1282/1282x957"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Jayne Kamin-Oncea, 1994. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
             </figure>
             
             <figure xml:id="fig2">
-               <graphic url="../images/Freeway2.jpg"/>
-               <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
-            </figure>
-            
-            <figure xml:id="fig3">
                <graphic url="../images/Freeway3.jpg"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Unknown, 1994. Image courtesy of ...</note>
                <figDesc></figDesc>
             </figure>
             
