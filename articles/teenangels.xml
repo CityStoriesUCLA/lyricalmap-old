@@ -49,7 +49,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts and culture">Los Angeles Gangs, South Los Angeles</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! -118.2914872, 33.9891116 !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <p>Teen Angels magazine portrays the lifestyle and culture of gangs in Los Angeles through art.</p>
          </note>
          
          <div type="bibliography">
