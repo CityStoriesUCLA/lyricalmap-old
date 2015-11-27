@@ -49,7 +49,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="history">Chavez Ravine</placeName>
             <geo>-118.239518 34.067789</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Having been the home of the Los Angeles Dodgers since 1962, the Dodger Stadium has become a landmark in Los Angeles. Dodger fans that fill up the 56,000 seats at the stadium have no idea that the home of their beloved team was once an area that was the Mexican-American community Chavez Ravine. A cohesive community lived there until the residents were forced to leave their homes to clear the way for the stadium.</p>
+            <p>Having been the home of the Los Angeles Dodgers since 1962, the Dodger Stadium has become a landmark. Dodger fans that fill up the 56,000 seats at the stadium have no idea that the home of their beloved team was once an area that was the Mexican-American community Chavez Ravine. A cohesive community lived there until the residents were forced to leave their homes to clear the way for the stadium.</p>
          </note>
          
          <div type="bibliography">
