@@ -34,6 +34,11 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Stored in UCLA’s Special Collections, this still is taken from Walt Disney Productions’ One Hundred and One Dalmatians (1961). The still is black and white, even though the original film was produced in color. The woman, Cruella De Vil, has ordered two henchmen, Horace and Jasper, to dognap dalmatian puppies all across London to make a fur coat. The puppies, Cruella, and the henchmen are shown in this snapshot watching television in Cruella’s abandoned family estate, with the intention to skin the puppies in the near future. </p>
+            <p>Article text goes here...</p>
+            <p>Article text goes here...</p>
+            <p>Article text goes here...</p>
+            <p>Article text goes here...</p>
             <p>Article text goes here...</p>
          </div>
       </body>
