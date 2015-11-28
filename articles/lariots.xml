@@ -42,7 +42,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="politics and society">LA Riots, Downtown LA</placeName>
             <geo>-118.2430 34.0536</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Home to citizens of varying ethnicities and cultures, Downtown and South Central LA are where most of the violence occurred during the riots. This part of LA, as well as others, holds much of the history that contributed to the something something.</p>
+            <p>Home to citizens of varying ethnicities and cultures, Downtown and South Central LA are where most of the violence occurred during the riots. This part of LA, as well as others, holds much of the history that contributed to the city that exists today.</p>
          </note>
          
          <div type="bibliography">
@@ -56,7 +56,7 @@
             <figure xml:id="fig1">
                <graphic url="../images/nameofimage.jpg"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Alan Duignan, April 29, 1992. <i>Understanding the Riots</i></note>
                <figDesc></figDesc>
             </figure>
             
