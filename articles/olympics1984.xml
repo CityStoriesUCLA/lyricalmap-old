@@ -49,13 +49,19 @@ With the help of proposition N, which helped to raise ticket and hotel prices, L
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts">1984 Olympic Games, Los Angeles Coliseum</placeName>
             <geo>-118.2875747 34.0139021</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The 1984 Olympic Games help its Arts Festival at the Los Angeles Memorial Coliseum.</p>
+            <p>The 1984 Olympic Games held its Arts Festival at the Los Angeles Memorial Coliseum.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>“1984 Summer Olympics.” Wikipedia, the free encyclopedia 15 Nov. 2015. Wikipedia. Web. 18 Nov. 2015.</bibl>
+               <bibl>Fitzpatrick, Robert J. Olympic Arts Festival. Los Angeles: Los Angeles Times Syndicate, 1984. Web.</bibl>
+               <bibl>“Fall 2014 Performance Arts: Echoes of 1984’s Olympic Arts Festival - LA Times.” N.p., n.d. Web. 18 Nov. 2015.</bibl>
+               <bibl>Angeles, 1984 Volume One, Part Two-1984OlympicsArtsFestival_LA.pdf.” Web. 18 Nov. 2015.</bibl>
+               <bibl>Sanders, Barry A. The Los Angeles 1984 Olympic Games. Arcadia Publishing, 2013. Print</bibl>
+               <bibl>Stodder, Joseph H. “Review of The Los Angeles Olympic Arts Festival.” Theatre Journal 37.1 (1985): 103–106. JSTOR. Web.</bibl>
+               <bibl>Harmetz, Aljean. "OLYMPIC ARTS FESTIVAL OPENS IN L.A." The New York Times. The New York Times, 01 June 1984. Web.</bibl>
+               <bibl>Andranovich, Greg, Matthew J. Burbank, and Charles H. Heying. "Olympic Cities: Lessons Learned from Mega-Event Politics." Journal of Urban Affairs J Urban Affairs 23.2 (2001): 113-31.</bibl>
             </listBibl>
          </div>
          
