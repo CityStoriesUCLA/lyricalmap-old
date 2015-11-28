@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1984 Olympic Games</title>
+            <author>Jeffrey H.</author>
+            <author>Collin K.</author>
+            <author>Zehua W.</author>
+            <author>Maxim G.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Colleen Jaurretche</publisher>
+            <date when="2015">Fall 2015</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+                  <title>Los Angeles Olympic Organizing Committee (LAOOC) Records, 1978-1984</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Prior to the 1984 Los Angeles Olympics, the 1932 and 1952 Olympics were the only modern Games to ever turn out profit for the host country. The 1976 Montreal Games was a financial disaster that left Montreal with a $1 billion debt. Naturally, no countries wanted to offer hosting of the Games – all but Los Angeles. The citizens of Los Angeles protested against using taxpayers’ dollars to finance the Olympics for the fear of bankrupting the city. It was decided upon by the International Olympic Committee that, for the first time ever, private corporations rather than government organizations would subsidize the Olympics. To cover the expenditures, the Games were commercialized to promote ticket sales, television revenues, and sponsorships. One way to advertise the Olympics was through the Photographic Commissions Project.</p>
+            <p>The aim of the 1984 Olympics Art Festival was to bring back the experience of Olympics. In Ancient Greece, athletes and artists came together to show the world their respective talents. In 1984, the organizers of the Los Angeles Olympics determined that it was imperative to incorporate a cultural aspect to the games. The committee decided it was best to have the performances precede the actual competition for a duration of ten weeks leading up to the Games. This festival, that had a budget of ten million dollars, emphasized variety by incorporating many different cultures and disciplines; a lot of focus was dedicated to tradition to preserve old arts and ideas. This event was directed by Robert J. Fitzpatrick and was the largest arts festival held by the United States at the time. There were over four-hundred performances that were produced by one-hundred and forty-five dance, theater, and music groups that came from every continent, and eighteen countries. Put on by people of thirteen foreign countries, the festival was mainly made up of theatre performances, as there were three hundred and twenty-seven.. The most impressive shows were also the most innovative as they swayed the audience in not only a dramatic aspect but also a theatrical one. Without this event, the Olympics would not have resembled the Games that took place in Ancient Greece as the productions themselves were of great importance to Greek culture. It was therefore essential to dedicate a substantial fraction of the Olympics that explored and displayed many cultures from all across the world.</p>
+            <p>The Los Angeles Arts Festival had two criteria for the selection of artists and performances:  excellence and diversity. In other words, all performances and exhibitions should match the honor of the Olympians and should display multicultural backgrounds. </p>
+            <p>Based on those expectations, more than four hundred performances from eighteen countries were brought to the festival. The host countries of previous Olympiads all received invitations to send representatives to the festival. South America and Africa were invited so as to increase “the continental representation”. The People’s Republic of China was also invited to “commemorate its first appearance in an Olympiad since the Los Angeles Games of 1932.” Finally, as the host country of the 1988 Olympics Games, Korea was added to the invitation list. Many performing groups accepted the invitations, and in total the ten-week-long Los Angeles Olympic Arts Festival presented performances from 145 theatre, dance and music companies. Among all those performing arts companies, Britain's Royal Opera of Covent Garden, the National Theater of Greece, Circus Oz from Australia, and the erotic modern dance company Sankaijuku from Japan made their American debuts.</p>
+            <p>The performances as well as the visual arts displayed on the festival provided the viewers with great visual pleasures. Piccolo, Soleil, Cricot, and Waseda presented the most spectacular performances all in an innovative way, astonishing the viewers “not simply in dramatic but also in theatrical dimensions.” As for the visual arts, many countries contributed their most valuable collections. Three major operatic productions were shipped from Covent Garden. France shipped 45 Impressionist masterpieces from the Louvre Museum to Los Angeles. The Kasuga Shrine in Japan made an exception by loaning the festival ancient ceremonial masks and robes that had never been exhibited outside the shrine in Nara. Museums from many other countries and some American local museums also contributed to the exhibitions of visual arts. In the end, to leave a visible legacy to the host city Los Angeles, LAOOC commissioned several works of public art, which included the sculptures in the Memorial Coliseum in Exposition Park and the murals to adorn the freeways between Downtown Los Angeles and the Coliseum.</p>
+            <p>The popularity of sports events plays an integral role in the economic life of a city. Los Angeles played a huge entrepreneurial role for the 1984 Olympic games, as it bid and helped to raise $158,000,000 in private funds. With the help of business leaders and local corporations, “Los Angeles made it feasible for the state and federal governments to finance little to no money for the games,” according to (Andranovich, 2001). The raised money allowed the Los Angeles Olympic Organizing Committee (LAOOC) to increase revenues while having the ability to control most of the arts festival organization. The location of the games encouraged more live performers and attracted larger crowds, which brought larger profits. Furthermore, the LAOOC signed up volunteers rather than paid staff, while having the power to make decisions without political consensus. </p>
+            <p>With the help of proposition N, which helped to raise ticket and hotel prices, LAOOC abstained from using general public funds, and hosted a remarkable “Capitalist Olympics” that turned into huge profits and influenced recent innovations in the city of Los Angeles. $100 million out of the $9.6 billion it took for Los Angeles to host the games, was used for the installation of an athletics facility -administration building- at UCLA, along with other innovations that supported youth sport foundations. All in all, the Los Angeles 1984 Olympic games hosted a remarkable arts festival as efficiently and profitably as possible, and supported by other innovative organizations across the city.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="arts and culture">1984 Olympic Games, Los Angeles Coliseum</placeName>
+            <geo>-118.2875747 34.0139021</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The 1984 Olympic Games held its Arts Festival at the Los Angeles Memorial Coliseum.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>“1984 Summer Olympics.” Wikipedia, the free encyclopedia 15 Nov. 2015. Wikipedia. Web. 18 Nov. 2015.</bibl>
+               <bibl>Fitzpatrick, Robert J. Olympic Arts Festival. Los Angeles: Los Angeles Times Syndicate, 1984. Web.</bibl>
+               <bibl>“Fall 2014 Performance Arts: Echoes of 1984’s Olympic Arts Festival - LA Times.” N.p., n.d. Web. 18 Nov. 2015.</bibl>
+               <bibl>Angeles, 1984 Volume One, Part Two-1984OlympicsArtsFestival_LA.pdf.” Web. 18 Nov. 2015.</bibl>
+               <bibl>Sanders, Barry A. The Los Angeles 1984 Olympic Games. Arcadia Publishing, 2013. Print</bibl>
+               <bibl>Stodder, Joseph H. “Review of The Los Angeles Olympic Arts Festival.” Theatre Journal 37.1 (1985): 103–106. JSTOR. Web.</bibl>
+               <bibl>Harmetz, Aljean. "OLYMPIC ARTS FESTIVAL OPENS IN L.A." The New York Times. The New York Times, 01 June 1984. Web.</bibl>
+               <bibl>Andranovich, Greg, Matthew J. Burbank, and Charles H. Heying. "Olympic Cities: Lessons Learned from Mega-Event Politics." Journal of Urban Affairs J Urban Affairs 23.2 (2001): 113-31.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="../images/olympic1.jpg"/>
+               <head>Letter regarding the Olympic Photographic Commisions Project</head>
+               <note type="attribution">The Los Angeles Organizing Committee(LAAOC), 1978-1984. Image courtesy of University of California, Los Angeles Library Department of Special Collections</note>
+               <figDesc>A letter informing about the Oympics timetable and budgets with the Arts Festival</figDesc>
+            </figure>
+               
+            <figure xml:id="fig2">
+               <graphic url="../images/olympic2.jpg"/>
+               <head>Letter Continued</head>
+               <note type="attribution">The Los Angeles Organizing Committee(LAAOC), 1978-1984. Image courtesy of University of California, Los Angeles Library Department of Special Collections</note>
+               <figDesc>Letter continued regarding the potential grand cost of the Arts Festival</figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
