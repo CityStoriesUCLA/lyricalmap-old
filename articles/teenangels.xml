@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Teen Angels</title>
+            <title>Illustration of Gang Lifestyle and Culture</title>
             <author>Cambria C.</author>
             <author>Faye T.</author>
             <author>Kelly D.</author>
@@ -18,7 +18,7 @@
             <date when="2015">Fall 2015</date>
          </publicationStmt>
          <notesStmt>
-            <relatedItem>
+            <relatedItem>Los Angeles Gangs 
                <bibl>
                   <author></author>
                   <title>UCLA Library Special Collections</title>
@@ -66,7 +66,7 @@
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/teenangelsimage.jpg"/>
-               <head>Teen Angels</head>
+               <head>Chicano artwork in Teen Angels Magazine</head>
                <note type="attribution">Milpitas, 1981. Image courtesy of UCLA Library Special Collections ...</note>
                <figDesc>Image of Chicano man and woman in old Chrysler with the words "Teen Angels" written above.  The image is an example of the influence of the Chicano Art Movement on graffiti and tattoo art,</figDesc>
             </figure>
