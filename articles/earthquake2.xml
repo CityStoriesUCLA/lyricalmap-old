@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Impacts of the 1994 Northridge Earthquake</title>
+            <title> Devastating Effects of the 1994 Northridge Earthquake</title>
             <author>Ashlie B.</author>
             <author>Danae B.</author>
             <author>Jagjot D.</author>
@@ -47,9 +47,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Santa Monica Freeway, Santa Monica</placeName>
+            <placeName type="environment and science">Santa Monica Freeway, Los Angeles, CA</placeName>
             <geo>-118.336782 34.034812</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Broken portion of the freeway.</p>
+            <p>This portion of the Santa Monica Freeway sustained a large amount of damage from the 1994 Los Angeles Earthquake. Parts of the bridge collapsed, rendering the pathway unusable for several weeks. </p>
          </note>
          
          <div type="bibliography">
@@ -66,16 +66,16 @@
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="http://www.trbimg.com/img-52d5b295/turbine/la-me-remembering-the-northridge-earthquake-of-015/1282/1282x957"/>
-               <head></head>
+               <head>Collapsed Highway</head>
                <note type="attribution">Jayne Kamin-Oncea, 1994. Image courtesy of UCLA Library Special Collections</note>
-               <figDesc>Underneath a broken portion of the highway.</figDesc>
+               <figDesc>Color photograph taken underneath a broken portion of the highway.</figDesc>
             </figure>
             
             <figure xml:id="fig2">
                <graphic url="../images/Freeway3.jpg"/>
-               <head></head>
+               <head>Earthquake Ruins</head>
                <note type="attribution">Unknown, 1994. Image courtesy of UCLA Library Special Collections</note>
-               <figDesc>Cars among the ruins of the highway.</figDesc>
+               <figDesc>Color photograph of cars among the ruins of the highway.</figDesc>
             </figure>
             
          </div>
