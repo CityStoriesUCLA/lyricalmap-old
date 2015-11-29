@@ -11,5 +11,22 @@
     font-family: "Open Sans";
     font-size: 13px;
     font-weight: 300;
+    color: #333;
     font-style: normal
 }
+
+.leaflet-popup-content {
+	font-family: "Open Sans";
+	margin: 14px 20px;
+	line-height: 1.4;
+	}
+.leaflet-popup-content p {
+	margin: 18px 0;
+	}
+
+.leaflet-popup-content-wrapper {
+    padding: 1px;
+    text-align: left;
+    border-radius: 1px;
+    opacity: .9;
+    }
