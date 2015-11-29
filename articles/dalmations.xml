@@ -20,7 +20,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Walt Disney Productions Publicity Ephemera, University of California, Los Angeles</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -47,7 +47,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
+            <placeName type="arts">One Hundred and One Dalmations, Walt Disney Animation Studio</placeName>
             <geo>-118.322958 34.155478</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Brief description, quote, or summary here.</p>
          </note>
