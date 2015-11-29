@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Teen Angels:Illustration of Gang Lifestyle and Culture</title>
+            <title>Teen Angels: Illustration of Gang Lifestyle and Culture</title>
             <author>Cambria C.</author>
             <author>Faye T.</author>
             <author>Kelly D.</author>
@@ -18,7 +18,7 @@
             <date when="2015">Fall 2015</date>
          </publicationStmt>
          <notesStmt>
-            <relatedItem>Los Angeles Gangs 
+            <relatedItem> 
                <bibl>
                   <author></author>
                   <title>UCLA Library Special Collections</title>
@@ -54,10 +54,10 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Garza, G. (1990, Aug 26). Chicano visions historic exhibit is the first survey of the art that emerged along with the spirit of a people. Los Angeles Times (Pre-1997 Fulltext)</bibl>
-               <bibl>Joe, Sherry. (1992, March 24). Gangs' Paper Trail : Magazines: Teen Angels prints graffiti, art, poetry and obituaries. Los Angeles Times </bibl>
-               <bibl>Kun, J. (2005, Jan 09). Cover story; the new chicano movement; twenty years ago, L.A. became the capital of a vital genre in the american art scene. now its inheritors are making work that reflects their changing cultural reality. Los Angeles Times.</bibl>
-               <bibl>Ramos, L. (1990, Aug 30). Touring retrospective examines chicano art. Los Angeles Times.</bibl>
+               <bibl>Garza, G. "Chicano visions historic exhibit is the first survey of the art that emerged along with the spirit of a people." Los Angeles Times, 26 August, 1990.</bibl>
+               <bibl>Joe, Sherry. "Gangs' Paper Trail : Magazines: Teen Angels prints graffiti, art, poetry and obituaries." Los Angeles Times, 24 March, 1992. </bibl>
+               <bibl>Kun, J. "Cover story: the new chicano movement." Los Angeles Times, 9 January, 2005.</bibl>
+               <bibl>Ramos, L. "Touring retrospective examines chicano art." Los Angeles Times, 30 August, 1990.</bibl>
 
 
             </listBibl>
@@ -67,8 +67,8 @@
             <figure xml:id="fig1">
                <graphic url="../images/teenangelsimage.jpg"/>
                <head>Chicano artwork in Teen Angels Magazine</head>
-               <note type="attribution">Milpitas, 1981. Image courtesy of UCLA Library Special Collections ...</note>
-               <figDesc>Image of Chicano man and woman in old Chrysler with the words "Teen Angels" written above.  The image is an example of the influence of the Chicano Art Movement on graffiti and tattoo art,</figDesc>
+               <note type="attribution">Milpitas, 1981. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Image of Chicano man and woman in old Chrysler with the words "Teen Angels" written above. The image is an example of the influence of the Chicano Art Movement on graffiti and tattoo art,</figDesc>
             </figure>
             
          </div>
