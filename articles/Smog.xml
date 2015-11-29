@@ -39,14 +39,15 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="environment and science">Smog</placeName>
+            <placeName type="environment and science">Smog Uncovered in Los Angeles</placeName>
             <geo>-118.445181 34.068921</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>A History of Los Angeles Air Pollution</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
+               <bibl>Jacobs, Chip, and William J. Kelly. "Smogtown: The Lung-burning History of Pollution in Los Angeles"
+               WOodstock, NY: Overlook,2008. Print</bibl>
                <bibl>Citation 2...</bibl>
             </listBibl>
          </div>
