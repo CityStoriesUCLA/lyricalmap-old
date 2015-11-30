@@ -18,7 +18,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>"Smogtown: The Lunbg-burning History of Pollution in Los Angeles", UCLA Library Special Collections</title>
+                  <title>"Smogtown: The Lung-Burning History of Pollution in Los Angeles", UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -46,7 +46,7 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Jacobs, Chip, and William J. Kelly. "Smogtown: The Lung-burning History of Pollution in Los Angeles"
+               <bibl>Jacobs, Chip, and William J. Kelly. "Smogtown: The Lung-Burning History of Pollution in Los Angeles"
                Woodstock, NY: Overlook,2008. Print</bibl>
                <bibl></bibl>
             </listBibl>
@@ -56,7 +56,7 @@
          	
             <figure xml:id="fig1">
                <graphic url="../images/smog1.jpg"/>
-               <head></head>
+               <head>Smogtown: The Lung-Burning History of Pollution in Los Angeles</head>
                <note type="attribution">Chip Jacobs, 2008. Image courtesy of UCLA Library Special Collections</note>
                <figDesc></figDesc>
             </figure>
