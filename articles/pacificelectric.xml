@@ -45,7 +45,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="architecture and urban planning">Pacific Electric Building</placeName>
             <geo>-118.249971 34.045543</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Photograph of the interior of a Pacific Electric motor coach from the 1940s or 1950s, which was most likely taken at Pacific Electric's bus depot at the ground floor of the Pacific Electric Building in Downtown Los Angeles.</p>
+            <p>Photograph of the interior of a Pacific Electric motor coach from the 1940s or 1950s. The image was most likely taken in Pacific Electric's bus depot in Downtown Los Angeles.</p>
          </note>
          
          <div type="bibliography">
