@@ -43,7 +43,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="environment and science">Smogtown by William Kelley and Chip Jacobs, UCLA Young Reserarch Library Special Collections</placeName>
+            <placeName type="environment and science">Smog in Los Angeles, UCLA Young Reserarch Library Special Collections</placeName>
             <geo>-118.445181 34.068921</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>This special collections text was put together by many contributers, many of whom researched at UCLA. The book discusses the long history of growing air pollution in the City of Los Angeles, and examines the environmental, political and health implications of the issue.</p>
          </note>
