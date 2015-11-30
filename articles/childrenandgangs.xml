@@ -74,6 +74,13 @@ The three pictures found within the Time Magazine article aren’t directly rela
                 <note type="attribution">Creator, date. Image courtesy of ...</note>
                 <figDesc></figDesc>
              </figure>
+             
+            <figure xml:id="fig3">
+                <graphic url="https://lh4.googleusercontent.com/4jf2G-hLmOpy2TSFF43RtL-6KWACDiTFIJdcBDGSm0sXpYI_Uj8cdfxCmK4Kaf5VNkyMsg=w2512-h1064"/>
+                <head></head>
+                <note type="attribution">Creator, date. Image courtesy of ...</note>
+                <figDesc></figDesc>
+             </figure>
          </div>
        </back>
     </text>
