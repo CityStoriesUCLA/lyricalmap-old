@@ -31,8 +31,7 @@
    <text>
       
       <body>
-         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Article goes here...</p>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. --><p>Article goes here...</p>
          </div>
       </body>
       
