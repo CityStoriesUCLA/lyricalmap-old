@@ -48,15 +48,14 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Pico House, Olvera Street</placeName>
+            <placeName type="Arts and Culture">Pico House, Olvera Street</placeName>
             <geo>-118.239439 34.0561683</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Pico House is a California and National Historic Landmark as it was the first, and at one point the most extravagant grand hotel in Southern California.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>Houghton, Frank B. History of the Old Plaza Church and Olvera Street. Los Angeles: n.p., n.d. Print.</bibl>
             </listBibl>
          </div>
          
@@ -65,7 +64,7 @@
                <graphic url="../images/picohouse.jpg"/>
                <head></head>
                <note type="attribution">Ana Bégué de Packman, 1875. Image courtesy of UCLA Special Collections</note>
-               <figDesc></figDesc>
+               <figDesc>Photograph of a large building with a sign saying Pico House and people gathered outside.</figDesc>
             </figure>
             
          </div>
