@@ -80,7 +80,8 @@
         "wavaw.xml",
         "earthquake2.xml",
         "trumbo.xml",
-        "cookbook.xml"
+        "cookbook.xml",
+        "pacificelectric.xml"
       ]
    }
   , "markers" : {
