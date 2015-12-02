@@ -47,7 +47,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">101 Dalmations, Walt Disney Animation Studio</placeName>
+            <placeName type="arts and culture">101 Dalmations, Walt Disney Animation Studios</placeName>
             <geo>-118.322958 34.155478</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Disney's production studio is home to many iconic animation films such as Cinderella and One Hundred and One Dalmatians</p>
          </note>
@@ -69,7 +69,7 @@ Box Office." Tribunedigital-baltimoresun. New York Times News Service, 06 Aug.
                <graphic url="../images/dalmations1.jpg"/>
                <head>101 Dalmatians Stolen by Horace and Jasper Badun</head>
                <note type="attribution">Walt Disney Productions, 1938-198x. Image courtesy of UCLA Special Collections</note>
-               <figDesc>(alt="Cruella De Vil in the presence of one hundred and one dalmatians stolen by her henchmen, Horace and Jasper Badun")</figDesc>
+               <figDesc>Cruella De Vil in the presence of one hundred and one dalmatians stolen by her henchmen, Horace and Jasper Badun</figDesc>
             </figure>
             
          </div>
