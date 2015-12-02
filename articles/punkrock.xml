@@ -45,7 +45,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts"> Whiskey A Go Go</placeName>
+            <placeName type="arts"> Whiskey A Go Go, Los Angeles</placeName>
             <geo> -118.3856 34.0906 </geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Whiskey A Go Go is the most famous punk rock venue. This article analyzes photographs from Washington D.C and New York of the Bad Brains and Minor Threat. These two bands had a profound impact on the development of punk culture in Los Angeles.</p>
          </note>
