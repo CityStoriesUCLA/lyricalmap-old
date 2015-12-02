@@ -46,7 +46,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts and culture">Loaded</placeName>
-            <geo>-34.101884 -118.329058</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.329058 34.101884</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Loaded is a popular eatery located in Los Angeles. The owners pride themselves on the restaurant’s Heavy Metal motif and decor. The playlist, of course, plays exclusively Heavy Metal. It’s a great place to grab a bite to eat while experiencing the musical culture of Heavy Metal in Los Angeles. </p>
          </note>
          
