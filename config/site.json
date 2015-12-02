@@ -74,7 +74,7 @@
         "hugoballin.xml",
         "icefollies.xml",
         "olympics1984.xml",
-        "teenangels.xml",
+        "teenangels1.xml",
         "graffiti.xml",
         "wavaw.xml",
         "earthquake2.xml",
@@ -84,7 +84,8 @@
         "MetalJacket.xml",
         "lariots.xml",
         "PicoHouse.xml",
-        "chavezravine.xml"
+        "chavezravine.xml",
+        "teenangels2.xml"
       ]
    }
   , "markers" : {
