@@ -82,7 +82,8 @@
         "cookbook.xml",
         "pacificelectric.xml",
         "MetalJacket.xml",
-        "lariots.xml"
+        "lariots.xml",
+        "PicoHouse.xml"
       ]
    }
   , "markers" : {
