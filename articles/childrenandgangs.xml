@@ -35,7 +35,6 @@
        
        <body>
           <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-             <center><p>Children and Gangs</p></center>
 		<p>When Mark Kirksey, a member of the Grape Street Crips, was interviewed by a reporter for the street gangs website, he was asked the question “Where do you see yourself in five years?” At the time, Kirksey was thirty-six years old, but he has been involved in gang activity since the age of twelve. Kirksey responded by saying that he didn’t want to be involved in gang activity forever, but for now this is what he was doing. In simpler words, he had no idea. All he could focus on was the present. Kirksey was killed at the age of thirty-seven in Watts, California. Unfortunately, this is the reality of most gang members: their future will most likely end in a lifetime sentence in prison or buried six feet under. So what’s the appeal, specifically with young boys?</p>
 		<p>In the article in which the pictures are found, “All Ganged Up,” the author looks into the lives of two young gang members, “Lil Ducc” and Henry.  Through interviews with young gang members, the author explores the reasoning behind why children join gangs.  She interviews moms who claim they wouldn’t mind seeing their sons arrested because it would mean they wouldn’t be killed on the streets. Both “Lil Ducc” and Henry had been arrested for gang activity before they were fifteen years old. “Lil Ducc” told his story about how he went on his first drive-by when he was eleven and shot a rival gang member the next day. Henry told a similar story about how he went on a “mission” to get revenge for a member of his gang who had been shot. On the mission he shot three times at a rival gang and hit one member. Because it was the life they chose, neither Little Ducc nor Henry felt remorse for their actions.</p>
 		<p>The three gangs mentioned in this article are the Grape Street Crips, Florencia 13, and Weigand Colonia Watts. Florencia 13, one of the largest Varrios in Los Angeles, originated in the 1940s, while Grape Street Crips and Colonia Watts formed around the 1970s. The branches of these Crip gangs are based off of the different streets and neighborhoods in South Central, Los Angeles. The Grape Street Crips were established on Grape Street, Los Angeles, Florencia 13 on Florence Avenue, and Weigand Colonia Watts on Weigand Avenue. The members from the different gangs are not allowed to cross territory lines because they see each other as rivals. Shoot-outs, drive-bys, and obtaining fast money through robbing and the selling of drugs are all things associated with gangs and the lives of young teens. Although children are not fully initiated into the gangs until they shoot at another human being, their lives revolve around the chaos associated with gangs.</p>
@@ -54,27 +53,27 @@
           
           <div type="bibliography">
              <listBibl>
-              <bibl>"Grape Street Watts Crips – South Los Angeles | Jordan Downs | Baby Locos." <i>Grape Street Watts Crips – South Los Angeles</i>. N.p., n.d. Web. 23 Nov. 2015.</bibl>
+              <bibl>"Grape Street Watts Crips – South Los Angeles | Jordan Downs | Baby Locos." Grape Street Watts Crips – South Los Angeles. N.p., n.d. Web. 23 Nov. 2015.</bibl>
                <bibl>Stanley, Alessandra. "Los Angeles All Ganged Up," Time. Time Inc., 18 June 1990. </bibl>
              </listBibl>
           </div>
           
           <div type="images">
              <figure xml:id="fig1">
-                <graphic url="https://lh4.googleusercontent.com/kSp-iv5t7KvLBbr5iuCycQ0X29xDfUHcRoeqycP9nbZeZCgrmt6A80Hmq8dCfU8ZhvT_Yw=w2512-h1064"/>
+                <graphic url="../images/"/>
                 <head>Three Young Gangmembers</head>
                 <note type="attribution">Creator, date. Image courtesy of ...</note>
                 <figDesc>The Los Angeles police department questions kids wearing gang regalia.</figDesc>
              </figure>
             
             <figure xml:id="fig2">
-                <graphic url="https://lh5.googleusercontent.com/Vgf_tC7U--ziyVMDief5rFI3PNHAEc6VctvT5wGio9MbS9SKvE7Oz6LQiwIPQZN2_6KP8Q=w2512-h1064"/>
+                <graphic url="../images/"/>
                 <head>Jesus and 7 Young Gangmembers</head>
                 <note type="attribution">Creator, date. Image courtesy of ...</note>
                 <figDesc>Under the outstretched arm of Jesus Christ, teenagers line up to be searched for weapons and drugs.</figDesc>
              </figure>
              <figure xml:id="fig3">
-                <graphic url="https://lh6.googleusercontent.com/U4EzHdpP24yfxYqCeI6kQY4xmUxJKGmxLoE4j99sPQy152jVFcHqjtYfC9MlqlLtZpyj2A=w1884-h789"/>
+                <graphic url="../images/"/>
                 <head>Young Teen Locked Up</head>
                 <note type="attribution">Creator, date. Image courtesy of ...</note>
                 <figDesc>A 15-year-old sits handcuffed, waiting for his fate to be decided.</figDesc>
