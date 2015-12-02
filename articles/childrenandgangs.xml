@@ -48,7 +48,7 @@
           
           <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
              <placeName type="politics and society">Children and Gangs, Watts, Los Angeles</placeName>
-             <geo>-118.238043, 33.938636</geo>
+             <geo>-118.238043 33.938636</geo>
              <p>Brief description, quote, or summary here.</p>
           </note>
           
