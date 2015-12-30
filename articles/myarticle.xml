@@ -40,21 +40,22 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[arts and culture]">[Article title], [Placename]</placeName>
-            <geo>[-117.2712717 32.8328112]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="arts and culture">[Article title], [Placename]</placeName>
+            <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>[Brief description, quote, or summary here.]</p>
          </note>
          
          <div type="bibliography">
-            <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
+            <listBibl><!-- At least one of your citations should be for the object your are writing about -->
                <bibl>[Citation 1...]</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
          
          <div type="images">
-            <figure xml:id="[fig1]">
-               <graphic url="../images/[nameofimagefile.jpg]"/>
+            
+            <figure xml:id="fig1">
+               <graphic url="../images/exampleimage1.jpg"/>
                <head>[Image title here]</head>
                <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
