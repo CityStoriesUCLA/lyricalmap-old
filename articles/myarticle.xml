@@ -55,7 +55,7 @@
          <div type="images">
             
             <figure xml:id="fig1">
-               <graphic url="../images/exampleimage1.jpg"/>
+               <graphic url="https://lh3.googleusercontent.com/EN1PoBEj0ItnENqWGkveQ95RO_YY-e1gm_9mafAsFXHA7vIANaYfX-YBew08oksms6Chft9Tl9NPXoOO3sPgIvigpxfn_kms-9q3LVSqteIJ9gxcZN388fy0zIVxHbwZSYNtM5TwDURA9g8PdDk-IvkQmIOhyGyPwOaEeXhBRFVALHpSgb6V_W1KFaJdK-BJUwxHWLAbrOolNx7cLJ_u6C4-XVFPO2s4y5hF_HxWfzRfmBZ4BqA3JWjKm7Oj_ZJvXJC61Sg9u6GMCZbpQ02FMmwiAPa9DAlaXzZBwWq8NDI0kfKF1CbFTYDzJcAIwiTBLmEazT0K-Avz8W68pUxxjQlaTdOWAxDtF_Kx02eCXTeGnoH3LVLcIdCmmgcR7wOqywjfyXaqiQ5tSIhN2uvrrANq38NuSEM1OT33NKDV1zyVgmRGjNBJYOw7GzSyy88VZXFZ1djC1Ia--o1SVBjERp1aWwR4WduR_n0CbSnpXqC4N9Yt0lv6C45aoOKQhb0FHcgWJQXUkvVgqBisatPIsClczdVExSOwgxngiYKOrhMKkpIFzeJpSShmj_Xw-5E8FIs=w1217-h811-no"/>
                <head>[Image title here]</head>
                <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
