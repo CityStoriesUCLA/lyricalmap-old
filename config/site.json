@@ -90,7 +90,12 @@
         "punkrock.xml",
         "childrenandgangs.xml",
         "smog.xml",
-        "myarticle.xml"
+        "group1.xml",
+        "group2.xml",
+        "group3.xml",
+        "group4.xml",
+        "group5.xml",
+        "group6.xml"
       ]
    }
   , "markers" : {
