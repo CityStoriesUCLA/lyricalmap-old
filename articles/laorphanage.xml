@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[Article title 3]</title>
-            <author>[Author 1]</author>
-            <author>[Author 2]</author>
-            <author>[Author 3]</author>
+            <title>LA Orphanage</title>
+            <author>Riley Stanton</author>
+            <author>Julia Ho-Gonzalez</author>
+            <author>Jessica Truong</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Photograph Album of Early Los Angeles, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -47,7 +47,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>Photograph Album of Early Los Angeles, Forbes, A.S.C, Mrs. Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
