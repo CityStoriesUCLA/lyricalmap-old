@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[Article title 1]</title>
-            <author>[Author 1]</author>
-            <author>[Author 2]</author>
-            <author>[Author 3]</author>
+            <title>Lesbian Nurses in Los Angeles</title>
+            <author>Sara Martinez</author>
+            <author>Ruperto de Haro</author>
+            <author>Lucas Jenkins</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Lesbian Nurses of Los Angeles records, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -55,10 +55,10 @@
          <div type="images">
             
             <figure xml:id="fig1">
-               <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <graphic url="https://ucla.box.com/shared/static/kix5mw22z2zrq02y4h86357w9t6dcb3l.jpg"/>
+               <head>Lesbian Nurse</head>
+               <note type="attribution">Theresa M. Stephany, 1998. Nursing Outlook Magazine. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>A magazine article that is a first person account of issues faced by lesbian nurses.</figDesc>
             </figure>
             
          </div>
