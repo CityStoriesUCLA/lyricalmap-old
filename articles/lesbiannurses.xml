@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lesbian Nurses in Los Angeles</title>
+            <author>Sara Martinez</author>
+            <author>Ruperto de Haro</author>
+            <author>Lucas Jenkins</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Colleen Jaurretche</publisher>
+            <date when="2016">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+                  <title>Lesbian Nurses of Los Angeles records, UCLA Library Special Collections</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>[Article text goes here...]</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="arts and culture">[Article title], [Placename]</placeName>
+            <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>[Brief description, quote, or summary here.]</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl><!-- At least one of your citations should be for the object your are writing about -->
+               <bibl>[Citation 1...]</bibl>
+               <bibl>[Citation 2...]</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            
+            <figure xml:id="fig1">
+               <graphic url="https://ucla.box.com/shared/static/kix5mw22z2zrq02y4h86357w9t6dcb3l.jpg"/>
+               <head>Lesbian Nurse</head>
+               <note type="attribution">Theresa M. Stephany, 1998. Nursing Outlook Magazine. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>A magazine article that is a first person account of issues faced by lesbian nurses.</figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
