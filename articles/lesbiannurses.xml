@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="science and environment">Lesbian Nurses in Los Angeles, Christopher Street West Parade</placeName>
+            <placeName type="environment and science">Lesbian Nurses in Los Angeles, Christopher Street West Parade</placeName>
             <geo>-118.3784286999997 34.08834</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Location of the Christopher Street West Parade, which the LNLA organization often participated in.</p>
          </note>
