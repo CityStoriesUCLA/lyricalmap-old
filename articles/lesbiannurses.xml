@@ -41,13 +41,13 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="science and environment">Lesbian Nurses in Los Angeles, Christopher Street West Parade</placeName>
-            <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>[Brief description, quote, or summary here.]</p>
+            <geo>-118.368702 34.091038</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Location of the Christopher Street West Parade, which the LNLA organization often participated in</p>
          </note>
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>Lesbian Nurse Article, Lesbian Nurses of Los Angeles records (Collection 1986). UCLA Library Special Collections, Charles E. Young Research Library, UCLA</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
@@ -58,7 +58,7 @@
                <graphic url="https://ucla.box.com/shared/static/kix5mw22z2zrq02y4h86357w9t6dcb3l.jpg"/>
                <head>Lesbian Nurse</head>
                <note type="attribution">Theresa M. Stephany, 1998. Nursing Outlook Magazine. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>A magazine article that is a first person account of issues faced by lesbian nurses.</figDesc>
+               <figDesc>A picture of a magazine article that gives first person account of issues faced by lesbian nurses.</figDesc>
             </figure>
             
          </div>
