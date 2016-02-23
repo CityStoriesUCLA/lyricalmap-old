@@ -55,10 +55,10 @@
          <div type="images">
             
             <figure xml:id="fig1">
-               <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <graphic url="../images/letterfromcesarchavez.jpg"/>
+               <head>Letter from Cesar E. Chavez</head>
+               <note type="attribution">Cesarchavez,January 14, 1969. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Long green paper written by Cesar Chavez on a type writer.</figDesc>
             </figure>
             
          </div>
