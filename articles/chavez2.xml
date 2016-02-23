@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Politics and Society">[Article title], [Placename]</placeName>
+            <placeName type="Politics and Society">Letter From Cesar Chavez, [Placename]</placeName>
             <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>[Brief description, quote, or summary here.]</p>
          </note>
