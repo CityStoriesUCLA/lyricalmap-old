@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Robin Ruth Linden Papers, 1976-1984, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -47,7 +47,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>Robin Ruth Linden Papers (Collection 1957). UCLA Library Collections, Charles E. Young Research Library, UCLA.</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
@@ -58,7 +58,7 @@
                <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
                <head>[Image title here]</head>
                <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <figDesc>Itinerary for a conference based on violence in pornography and media.</figDesc>
             </figure>
             
          </div>
