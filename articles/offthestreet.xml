@@ -46,7 +46,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>[Frauchiger, Fritz A. Off the Street: A One-time Art Exhibition in the Old City Print Shop, Featuring Painting, Sculpture, Photography and Installations by 48 Los Angeles Artists. Los Angeles: Publisher Not Identified, 1985. Print.]</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
@@ -55,9 +55,9 @@
             
             <figure xml:id="fig1">
                <graphic url="https://ucla.box.com/s/5yl4emihenzkiwt9fl34l5czqzy1qq3x"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <head>[A One-time Art Exhibition]</head>
+               <note type="attribution">[Fritz A. Frauchiger], [April 27-May 26, 1985]. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>[A street wall made of brick with the title of the art exhibition "Off the Streets".]</figDesc>
             </figure>
             
          </div>
