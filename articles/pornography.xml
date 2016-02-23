@@ -40,9 +40,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Politics and Society">Femenist Perspective on Pornography, WAV Office Location</placeName>
+            <placeName type="Politics and Society">Feminist Perspective on Pornography, WAV Office Location</placeName>
             <geo>-118.38515380000001 34.036792</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The Confrence took place in San Francisco, but many of the Los Angeles members of Women Against Violence attended the confrence.</p>
+            <p>Program for a confrence based on violence in pornography and media.</p>
          </note>
          
          <div type="bibliography">
@@ -58,7 +58,7 @@
                <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
                <head>[Image title here]</head>
                <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>Itinerary for a conference based on violence in pornography and media.</figDesc>
+               <figDesc>Program for a conference based on violence in pornography and media.</figDesc>
             </figure>
             
          </div>
