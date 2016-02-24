@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>LA Orphanage</title>
+            <title>Los Angeles Orphanage</title>
             <author>Riley Stanton</author>
             <author>Julia Ho-Gonzalez</author>
-            <author>Jessica Truong</author>
+            <author>Jesica Truong</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -40,25 +40,25 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">[Article title], [Placename]</placeName>
-            <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>[Brief description, quote, or summary here.]</p>
+            <placeName type="History">Los Angeles Orphanage, Maryvale</placeName>
+            <geo>-118.10469790000002 34.0553333</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The current location of Maryvale Orphanage once known as the Los Angeles Orphan Asylum located in Boyle Heights.</p>
          </note>
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
                <bibl>Photograph Album of Early Los Angeles, Forbes, A.S.C, Mrs. Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</bibl>
-               <bibl>[Citation 2...]</bibl>
+               <bibl>"First Orphanage in Los Angeles." Maryvale. Maryvale, n.d. Web. 23 Feb. 2016. http://www.maryvale.org/about-us/first-orphanage-in-los-angeles.</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             
             <figure xml:id="fig1">
-               <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
+               <graphic url="../images/LAOrphanAsylum.jpg"/>
                <head>[Image title here]</head>
                <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <figDesc>A black and white photograph of a large Tudor-style five story brick building with multiple window panels on a grass field.</figDesc>
             </figure>
             
          </div>
