@@ -42,7 +42,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="politics and society">Letter From Cesar Chavez, [Placename]</placeName>
             <geo>-118.169264 33.769632</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Viva La Causa!</p>
+            <p>Letter written by Cesar Chaves to an organization in Long Beach California signed Viva La Causa!</p>
          </note>
          
          <div type="bibliography">
