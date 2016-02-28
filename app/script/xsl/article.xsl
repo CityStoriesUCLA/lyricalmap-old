@@ -91,6 +91,27 @@
         </xsl:element>
     </xsl:template>
 
+
+    <xsl:template match="tei:emph">
+        <em>
+            <xsl:apply-templates/>
+        </em>
+    </xsl:template>
+
+    <xsl:template match="tei:q">
+        <p class="pullquote">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+
+<!--
+-/-  back templates
+-->
+
+<xsl:template name="back">
+        <xsl:apply-templates select="//tei:back"/>
+    </xsl:template>
+
     <xsl:template match="tei:div[@type='bibliography']">
         <xsl:if test="tei:listBibl/tei:bibl/text()">
             <div>
@@ -104,12 +125,6 @@
         <em>
             <xsl:apply-templates/>
         </em>
-    </xsl:template>
-
-    <xsl:template match="tei:q">
-        <p class="pullquote">
-            <xsl:apply-templates/>
-        </p>
     </xsl:template>
 
     <xsl:template match="tei:bibl">

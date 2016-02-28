@@ -44,18 +44,18 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">Recuerdos de Los Rancheros, San Pascual Stables</placeName>
+            <placeName type="arts and culture"><emph>Recuerdos de Los Rancheros</emph>, San Pascual Stables</placeName>
             <geo>-118.166599 34.123646</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>An original cookbook containing authentic hispanic recipes.  Thought to be one of the first cookbooks, it includes watercolor depictions of various Latin American foods.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Pilcher, Jeffrey M.. “Tamales or Timbales: Cuisine and the Formation of Mexican National Identity, 1821-1911”. The Americas 53.2 (1996): 193–216.</bibl>
+               <bibl>Pilcher, Jeffrey M.. “Tamales or Timbales: Cuisine and the Formation of Mexican National Identity, 1821-1911”. <emph>The Americas</emph> 53.2 (1996): 193–216.</bibl>
                <bibl>"California Ranchos." California Ranchos. Toucan Valley Publications, Inc., n.d.</bibl>
-               <bibl>Reid, Hiram Alvin, and Alfred James McClatchie. "History of Pasadena." Google Books.
+               <bibl>Reid, Hiram Alvin, and Alfred James McClatchie. <emph>History of Pasadena</emph>. Google Books.
 Pasadena History Company. (1895): 201.</bibl>
-               <bibl>Tenth Annual Catalogue of the State Normal School, at Los Angeles, for the School Year Ending June 23, 1892, and Circular for 1892-92. Sacramento: State Office, 1892. http://www.registrar.ucla.edu/archive/catalog/1892-93catalog.pdf</bibl>
+               <bibl><emph>Tenth Annual Catalogue of the State Normal School, at Los Angeles, for the School Year Ending June 23, 1892, and Circular for 1892-92</emph>. Sacramento: State Office, 1892. http://www.registrar.ucla.edu/archive/catalog/1892-93catalog.pdf</bibl>
             </listBibl>
          </div>
          
