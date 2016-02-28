@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="History">Los Angeles Orphan Asylum, Maryvale</placeName>
+            <placeName type="history">Los Angeles Orphan Asylum, Maryvale</placeName>
             <geo>-118.10469790000002 34.0553333</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The current location of Maryvale Orphanage once known as the Los Angeles Orphan Asylum located in Boyle Heights.</p>
          </note>
@@ -56,8 +56,8 @@
             
             <figure xml:id="fig1">
                <graphic url="../images/LAOrphanAsylum.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
+               <head>Los Angeles Orphan Asylum </head>
+               <note type="attribution">[Creator], 1894. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>A black and white photograph of a large Tudor-style five story brick building with multiple window panels on a grass field.</figDesc>
             </figure>
             
