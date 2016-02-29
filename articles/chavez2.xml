@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ceasar Chaves Letter</title>
+            <title>Ceasar Chavez Letter</title>
             <author>Aziza Wright</author>
             <author>Deja Mathews</author>
             <author>Ruth Hailegiorgis</author>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Collection of Material about Long Beach, 1970-1974, [1143], UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -40,9 +40,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">[Article title], [Placename]</placeName>
-            <geo>-118.441438 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>[Brief description, quote, or summary here.]</p>
+            <placeName type="Politics and Society">Letter From Cesar Chavez, [Placename]</placeName>
+            <geo>-118.169264 33.769632</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Viva La Causa!</p>
          </note>
          
          <div type="bibliography">
@@ -55,10 +55,10 @@
          <div type="images">
             
             <figure xml:id="fig1">
-               <graphic url="https://ucla.box.com/shared/static/sl4bj5zr5kh41l9aihywbddw3uyu4rej.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <graphic url="../images/letterfromcesarchavez.jpg"/>
+               <head>Letter from Cesar E. Chavez</head>
+               <note type="attribution">Cesarchavez,January 14, 1969. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Long green paper written by Cesar Chavez on a type writer.</figDesc>
             </figure>
             
          </div>
