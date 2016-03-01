@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Los Angeles Orphanage</title>
+            <title>Los Angeles Orphan Asylum</title>
             <author>Riley Stanton</author>
             <author>Julia Ho-Gonzalez</author>
             <author>Jesica Truong</author>
@@ -40,7 +40,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="History">Los Angeles Orphanage, Maryvale</placeName>
+            <placeName type="history">Los Angeles Orphan Asylum, Maryvale</placeName>
             <geo>-118.10469790000002 34.0553333</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The current location of Maryvale Orphanage once known as the Los Angeles Orphan Asylum located in Boyle Heights.</p>
          </note>
@@ -49,6 +49,7 @@
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
                <bibl>Photograph Album of Early Los Angeles, Forbes, A.S.C, Mrs. Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</bibl>
                <bibl>"First Orphanage in Los Angeles." Maryvale. Maryvale, n.d. Web. 23 Feb. 2016. http://www.maryvale.org/about-us/first-orphanage-in-los-angeles.</bibl>
+               <bibl>"The Los Angeles Orphanage Guild." N.p.,n.d. Web. http://laorphanageguild.com.</bibl>
             </listBibl>
          </div>
          
@@ -56,8 +57,8 @@
             
             <figure xml:id="fig1">
                <graphic url="../images/LAOrphanAsylum.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
+               <head>Los Angeles Orphan Asylum </head>
+               <note type="attribution"> 1894. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>A black and white photograph of a large Tudor-style five story brick building with multiple window panels on a grass field.</figDesc>
             </figure>
             
