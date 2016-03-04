@@ -48,12 +48,12 @@ The letter expresses the importance of equal opportunities for Latino workers. S
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="politics and society">Letter From Cesar Chavez, [Placename]</placeName>
             <geo>-118.169264 33.769632</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Letter written by Cesar Chaves to the Long Beach community center in California signed Viva La Causa!</p>
+            <p>Letter written by Cesar Chavez to the Long Beach community center in California signed Viva La Causa!</p>
          </note>
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
-               <bibl>letter from Cesar E Chaves, collection of material about Long beach Community Center located in Long Beach California(collection, 1143)</bibl>
+               <bibl>letter from Cesar E Chavez, collection of material about Long beach Community Center located in Long Beach California(collection, 1143)</bibl>
                <bibl>Department of special collections, Charels E. Young research Library, University of California, Los Angeles</bibl>
             </listBibl>Weeks, Maurice, and Lindsay Carpenter. "U.S. Farmworkers in California Campaign for
 Economic Justice (Grape Strike), 1965-70." Global Nonviolent Action Database. 
