@@ -41,7 +41,7 @@ Last year on Valentine’s Day, the BDSM (Bondage, Dominance, Sadism and Masochi
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Politics and Society">Feminist Perspective on Pornography, WAVAW File Location</placeName>
+            <placeName type="politics and society">Feminist Perspective on Pornography, WAVAW File Location</placeName>
             <geo>-118.44143839999998 34.074971</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The confrence took place in San Francisco, but many of the Los Angeles members of Women Against Violence Against Women attended.</p>
          </note>
@@ -63,7 +63,7 @@ Last year on Valentine’s Day, the BDSM (Bondage, Dominance, Sadism and Masochi
             <figure xml:id="fig1">
                <graphic url="../images/pornographyconference.jpg"/>
                <head>Conference Program</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of UCLA Library Special Collections.</note>
+               <note type="attribution">Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>Program for a conference based on violence in pornography and media.</figDesc>
             </figure>
             
