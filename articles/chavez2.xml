@@ -54,9 +54,10 @@
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object your are writing about -->
                <bibl>Letter from Cesar E Chavez, Collection of Material about Long Beach Community Center located in California(Collection, 1143), Department of UCLA Library Special Collections</bibl>
-            </listBibl>Weeks, Maurice, and Lindsay Carpenter. "U.S. Farmworkers in California Campaign for
-Economic Justice (Grape Strike), 1965-70." Global Nonviolent Action Database. 
-	       <bibl> Daniel, Cletus E. "13 Cesar Chavez and the Unionization of California Farmworkers." Working People of California (1995): 1371.
+               <bibl> Daniel, Cletus E. "13 Cesar Chavez and the Unionization of California Farmworkers." Working People of California (1995): 1371.</bibl>
+               <bibl>Weeks, Maurice, and Lindsay Carpenter. "U.S. Farmworkers in California Campaign for Economic Justice (Grape Strike), 1965-70." Global Nonviolent Action Database.</bibl>
+            </listBibl> 
+	       
          </div>
          
          <div type="images">
