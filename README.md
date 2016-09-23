@@ -21,7 +21,7 @@ Monday, Nov. 7 Begin Module 4
 Wednesday, Nov. 9 Lab Class in Special Collecitons, with Cesar Reyes. Modules 2 and 4 to be completed in lab.
    * [Assignment 2: Images](https://kirschbombe.gitbooks.io/citystories-la/content/module02.html)
  Homework: completion of Modules 3,6,7,8, and 9
-     * [Assignment 3: Prep and submit your images](https://kirschbombe.gitbooks.io/citystories-la/content/module03.html)
+   * [Assignment 3: Prep and submit your images](https://kirschbombe.gitbooks.io/citystories-la/content/module03.html)
    * [Assignment 6: Preparing your article stub](https://kirschbombe.gitbooks.io/citystories-la/content/module06.html)
    * [Assignment 7: Start filling in your article stub (template)](https://kirschbombe.gitbooks.io/citystories-la/content/module07.html)
    * [Assignment 8: Submit your work with a "Pull Request"](https://kirschbombe.gitbooks.io/citystories-la/content/module08.html)
