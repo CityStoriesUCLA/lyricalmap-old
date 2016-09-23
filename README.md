@@ -31,7 +31,7 @@ Monday, Nov. 14 Modules 10, 11, and 12 to be completed in class.
    * [Assignment 10: Complete the teiHeader, bibliography, and image sections](https://kirschbombe.gitbooks.io/citystories-la/content/module10.html)
    * [Assignment 11: Map Marker and Article Body](https://kirschbombe.gitbooks.io/citystories-la/content/module11.html)
 * _Homework:_
-   * Complete your article .xml file, check over your work and your live site to make sure everything is displaying correctly, then submit your final "[Pull Request]"! **Do not wait until the last minute.** You will likely experience issues (both technical and editorial) and will need time to edit, troubleshoot, and/or receive help.
+   * Complete your article .xml file, check over your work and your live site to make sure everything is displaying correctly, then submit your final "Pull Request"! **Do not wait until the last minute.** You will likely experience issues (both technical and editorial) and will need time to edit, troubleshoot, and/or receive help.
 
 
 Wednesday, Nov. 23 Completion of Module 13
