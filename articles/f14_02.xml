@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Downtown Los Angeles</title>
+                <author>Anonymous</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Colleen Jaurretche</publisher>
+                <date when="2014">Fall 2014</date>
+            </publicationStmt>
+            <notesStmt>
+                <relatedItem>
+                    <bibl>
+                        <author></author>
+                        <title>Ansel Adams Papers (Collection 696), UCLA Library Special Collections</title>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+                <p>The technological advances of the 20th and 21st century have made paper maps as common as sending letters through the mail. Nowadays, such maps are losing significance and value, as they once possessed, shown by the decline of their usage. One company continues this vast tradition through an artistic lens: Unique Media Inc. produces artistic maps with three-dimensional representations of anything from parts of cities to continents. In 1984, they produced this map of downtown Los Angeles. The map focuses on the major buildings and attractions in the downtown area, including descriptions for tourists and residents alike. The unique information that it provides serves as one of the greatest tourist guides to downtown Los Angeles ever printed on one sheet of paper.</p>
+                <p>The front of the map grabs the audience’s attention with its bright colors, cartoonish design and 3D buildings. In the background, one can see the San Gabriel Mountains looming over the city as the map stretches from the foothills all the way to the Santa Monica Freeway. Harbor Freeway and Central Avenue mark the left and right borders, respectively.  Beyond these boundaries, the depiction of buildings stops. The map focuses on buildings, which shelter large businesses and banks that take over the majority of downtown Los Angeles. The larger or more important buildings are shown more prominently than the smaller attractions and overshadow places such as markets or fashion districts. Cultural districts such as Little Tokyo are also present, but they do not stand out in the map. The vibrant colors of the map distinguish it from traditional maps, emphasizing its sole purpose of attracting tourists.</p>
+		<p>On the back of the map, one can find abundant information on downtown Los Angeles, both as a visitor and as a resident. Highlighted places include cultural centers, restaurants, galleries, and nightclubs, with their front map coordinates to be found on the front map and phone numbers. For people planning on living in downtown, there are descriptions of accommodation, education, sports facilities, markets and more. The top right corner shows a portrayal of downtown from the opposite direction than on the frontal map, with the Los Angeles Memorial Coliseum in the foreground.</p>
+		<p>Maps are meaningful artifacts that document a place’s development and provide a comparison between the past and the present. Downtown as it is today was in a much different state back in the days.  In the mid 20th century, Los Angeles experienced “a post-World War II exodus of residential population from the urban core out to the suburbs” (Hand 22). As a result, downtown became one of the most neglected areas of the city; however, within the last decade, people made major efforts to revitalize the area and assure its role as an economic center. To begin with, the establishment of accommodation opportunities (such as new condos and lofts) led to an increase of population: from 28,878 in 2006 to 39,537 in 2008. This population is also influenced by “a daily influx of more than four hundred thousand people”, mostly commuters who work in downtown (Hand 22). Moreover, the development of entertainment such as Staples Center and Nokia Live has shaped Downtown Los Angeles’ surge of interest. One of the most prominent changes is the addition of the Disney Concert Hall. While nonexistent in 1984, thus not to be found on the Unique Media Inc. map, the Disney Concert Hall has become one of the most visited sites in Los Angeles and home to countless performances by some of the world’s greatest artists. After its redevelopment, Downtown has transitioned from a “nine-to-five central business district into a twenty-four hour community” (Hand 22). The map is a great insight into what the area looked like in 1984 and a helpful way to visualize how the revitalization efforts have ameliorated the area.</p>
+		<p>Downtown Los Angeles has developed demographically, economically, and culturally since its decline from its “post World-War II exodus” (Hand 22). The map displays this development by showcasing large businesses and tourist attractions, which were huge influences to its economic success. With its vibrant colors and artistic design, the map produced by Unique Media illustrates how Downtown Los Angeles has grown into a community – one that encompasses attractions that connect people culturally. Aside from attracting tourists and providing guidance, maps are a great way to see the significant change and development of an area, which gives us historical information and a better understanding of that area as a whole.</p>    
+            </div>
+        </body>
+        
+        <back>
+            
+            <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+                <placeName type="arts and culture">Downtown Los Angeles</placeName>
+                <geo>-118.2485157251358 34.04187626901644</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+                <p>The technological advances of the 20th and 21st century have made paper maps as common as sending letters through the mail. Nowadays, such maps are losing significance and value, as they once possessed, shown by the decline of their usage. One company continues this vast tradition through an artistic lens: Unique Media Inc. produces artistic maps with three-dimensional representations of anything from parts of cities to continents. In 1984, they produced this map of downtown Los Angeles. The map focuses on the major buildings and attractions in the downtown area, including descriptions for tourists and residents alike. The unique information that it provides serves as one of the greatest tourist guides to downtown Los Angeles ever printed on one sheet of paper.</p>
+            </note>
+            
+            <div type="bibliography">
+                <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
+                    <bibl>Hand, Ashley Zarella, and Gunnar Hauser Hand. "Sustainable Democracy in Downtown Los Angeles." National Civic Review 99.3 (2010): 22-28. Web.</bibl>
+                    <bibl>Yearbook from Manzanar, Ansel Adams Papers (Collection 696). UCLA Library Special Collections, Charles E. Young Research Library.</bibl>
+                </listBibl>
+            </div>
+            
+            <div type="images">
+                <figure xml:id="fig1">
+                    <graphic url="../images/nameofimagefile.jpg"/>
+                    <head>[Image title here]</head>
+                    <note type="attribution">Ansel Adams, 1902. Image courtesy of UCLA Library Special Collections.</note>
+                    <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+                </figure>
+                
+            </div>
+        </back>
+    </text>
+</TEI>
