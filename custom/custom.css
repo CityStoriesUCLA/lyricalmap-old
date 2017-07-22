@@ -11,9 +11,9 @@
     #menu {
         .dropdown-submenu {
             position: relative;
+	    max-height:500px; /* you can change as you need it */
+	    overflow:auto; /* to get scroll */
             .dropdown-menu {
-		max-height:500px; /* you can change as you need it */
-		overflow:auto; /* to get scroll */
                 top: 0;
                 right: 100%;
                 margin-top: -6px;
