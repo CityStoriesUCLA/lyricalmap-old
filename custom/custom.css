@@ -11,19 +11,9 @@
     #menu {
         .dropdown-submenu {
             position: relative;
-	    max-height:500px; /* you can change as you need it */
-	    overflow:auto; /* to get scroll */
             .dropdown-menu {
-                top: 0;
-                right: 100%;
-                margin-top: -6px;
-                margin-left: -1px;
-                border-radius: 0 6px 6px 6px;
-            }
-            a.submenu-title {
-                pointer-events: none;
-                cursor: default;
-            }
+		max-height: 500px;
+	        overflow: auto;
 
 #article p, #article p.pullquote {
     font-family: "Open Sans";
