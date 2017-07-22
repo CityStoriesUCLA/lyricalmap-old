@@ -7,6 +7,11 @@
     font-weight: 400
 }
 
+#dropdown-submenu {
+   max-height:500px;/* you can change as you need it */
+   overflow:auto;/* to get scroll */
+} 
+
 #article p, #article p.pullquote {
     font-family: "Open Sans";
     font-size: 13px;
