@@ -7,10 +7,23 @@
     font-weight: 400
 }
 
-#ul.dropdown-submenu.dropdown-menu-right {
-   max-height:500px; /* you can change as you need it */
-   overflow:auto; /* to get scroll */
-} 
+#issue {
+    #menu {
+        .dropdown-submenu {
+            position: relative;
+            .dropdown-menu {
+		max-height:500px; /* you can change as you need it */
+		overflow:auto; /* to get scroll */
+                top: 0;
+                right: 100%;
+                margin-top: -6px;
+                margin-left: -1px;
+                border-radius: 0 6px 6px 6px;
+            }
+            a.submenu-title {
+                pointer-events: none;
+                cursor: default;
+            }
 
 #article p, #article p.pullquote {
     font-family: "Open Sans";
